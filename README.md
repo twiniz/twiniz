@@ -13,7 +13,7 @@ I’m learning by doing — working with labs and small projects to understand h
 - Password security and secure authentication concepts
 - Reading logs and understanding suspicious activity
 
----
+--- 
 
 ## 🧰 Tools & Technologies
 - Kali Linux
