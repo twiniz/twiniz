@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Dorcas 👋
 
-<!--
-**twiniz/twiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner in cybersecurity, currently building hands-on skills focused on Security Operations Center (SOC) fundamentals and defensive security.
 
-Here are some ideas to get you started:
+I’m learning by doing — working with labs and small projects to understand how systems work, how attacks happen, and how defenders detect and respond to them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m learning
+- Linux fundamentals using Kali Linux
+- Network reconnaissance and basic scanning
+- Web application security fundamentals
+- Password security and secure authentication concepts
+- Reading logs and understanding suspicious activity
+
+---
+
+## 🧰 Tools & Technologies
+- Kali Linux
+- Nmap (beginner)
+- Wireshark (beginner)
+- DVWA (learning environment)
+- Python (beginner)
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+- Building beginner-friendly cybersecurity projects
+- Documenting labs clearly and honestly
+- Growing into a Junior SOC / Entry-Level Cybersecurity role
+
+---
+
+## 🌱 Learning Philosophy
+I believe strong cybersecurity skills are built through consistent practice, curiosity, and ethical learning in controlled lab environments.
