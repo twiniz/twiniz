@@ -1,36 +1,48 @@
-# Hi, I’m Dorcas 👋
+# 👋 Hi, I’m twiniz
 
-I’m a beginner in cybersecurity, currently building hands-on skills focused on Security Operations Center (SOC) fundamentals and defensive security.
-
-I’m learning by doing — working with labs and small projects to understand how systems work, how attacks happen, and how defenders detect and respond to them.
+🔐 **Cybersecurity Analyst (In Training)**  
+Focused on **Linux security, log analysis, and SOC-style threat detection**
 
 ---
 
-## 🔭 What I’m learning
-- Linux fundamentals using Kali Linux
-- Network reconnaissance and basic scanning
-- Web application security fundamentals
-- Password security and secure authentication concepts
-- Reading logs and understanding suspicious activity
+## 🛡️ About Me
+I’m building hands-on cybersecurity projects that simulate **real defensive workflows**, with a strong focus on:
+- Linux authentication & privilege monitoring
+- Log analysis for suspicious activity
+- Detecting post-compromise indicators
+- Blue team / SOC fundamentals
 
---- 
+My goal is to become a **Junior SOC Analyst / Security Analyst**, with practical experience analyzing logs, identifying threats, and documenting findings.
 
-## 🧰 Tools & Technologies
-- Kali Linux
-- Nmap (beginner)
-- Wireshark (beginner)
-- DVWA (learning environment)
-- Python (beginner)
+---
+
+## 🔍 Featured Security Projects
+
+### 🔹 Log Analysis – Suspicious Activity Detection
+📌 Detects abnormal login behavior, sudo abuse, and privilege escalation attempts using Linux auth logs.  
+➡️ Focused on SOC-style investigation and reporting.
+
+### 🔹 Linux Security Basics
+📌 A defensive reference covering Linux permissions, sudo risks, misconfigurations, and common attack vectors.
+
+---
+
+## 🧰 Skills & Tools
+- Linux (auth.log, permissions, sudo, users)
+- Log analysis & threat detection
+- Python (security scripting)
+- Bash fundamentals
+- SOC investigation mindset
 - Git & GitHub
 
 ---
 
-## 📌 Current Focus
-- Building beginner-friendly cybersecurity projects
-- Documenting labs clearly and honestly
-- Growing into a Junior SOC / Entry-Level Cybersecurity role
+## 📚 Currently Learning
+- Incident detection & response
+- SIEM concepts
+- Advanced Linux hardening
+- MITRE ATT&CK (defensive mapping)
 
 ---
 
-## 🌱 Learning Philosophy
-I believe strong cybersecurity skills are built through consistent practice, curiosity, and ethical learning in controlled lab environments.
+📫 **Open to learning, collaboration, and junior security opportunities**
